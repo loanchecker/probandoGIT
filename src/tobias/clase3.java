@@ -7,6 +7,11 @@ public class clase3 {
 	System.out.println("tobi");
 	System.out.println("tobi");	System.out.println("tobi");	System.out.println("tobi");	System.out.println("tobi");	System.out.println("tobi");
 	System.out.println("tobi");	
+	System.out.println("tobi");	
+	
+	System.out.println("tobi");	System.out.println("tobi");	System.out.println("tobi");	System.out.println("tobi");	System.out.println("tobi");
+	System.out.println("tobi");	
+	System.out.println("tobi");	
 	}
 
 }
